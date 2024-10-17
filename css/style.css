@@ -1,0 +1,60 @@
+:root{
+   --header: rgb (21,69,21);
+   --tert: white;
+   --font1: playfair; 
+    
+ }
+
+
+ 
+ .body{
+   font-family: var(--font1);
+  }
+  
+  .food-card{
+    background-color: salmon;
+    
+  }
+
+  .footer-h2 {
+    color: white;
+  }
+  
+  .container{
+    background-color: rgb(48, 48, 115);
+  }
+  
+  .header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .heading
+  {
+    color: aliceblue;
+  }
+
+      .img-headshot{
+    width: 50%;
+    padding-top: 10px;
+  }
+  
+  .img-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+  }
+
+  .project-card{
+    background-color: salmon;
+  }
+   .section{
+   background-color: rgb(7, 7, 39);
+   padding: 40px 0;
+  }
+
+  #section2{
+  padding: 40px 0;background-color: rgb(7, 7, 39);
+   }
+
+   #section3{
+    padding: 40px 0;background-color: rgb(7, 7, 39);
+   }
