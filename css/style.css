@@ -11,7 +11,6 @@
   
   .food-card{
     background-color: salmon;
-    
   }
 
   .footer-h2, .footer-text {
@@ -22,8 +21,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
-  .heading
-  {
+  .heading {
     color: aliceblue;
   }
 
@@ -40,6 +38,7 @@
   .project-card{
     background-color: salmon;
   }
+
    .section{
    background-color: rgb(7, 7, 39);
    padding: 40px 0;
